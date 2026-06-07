@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "id": "ultraclient",
+  "version": "1.0",
+  "name": "UltraClient",
+  "entrypoints": {"main": ["ultraclient.UltraClient"]},
+  "depends": {"fabricloader": ">=0.15.0", "minecraft": "1.21.11"}
+}
